@@ -374,7 +374,9 @@
 
   classes :  
     - date : Monday, August 12
-      Lab tutorial. The students will form a group of three and propose a project in Github. The students will make,       track and merge changes made by group members. The class will be held in a lab.
+      Lab tutorial. The students will form a group of three and propose a project in Github. 
+      The students will modify the code and track and merge changes made by group members.
+      The class will be held in a lab.
   
     - date : Wednesday, August 14
       title : Adoption Case Studies
@@ -410,7 +412,9 @@
             url : http://www.wired.com/wiredenterprise/2013/03/mongodb-enterprise/
             bitly : http://bit.ly/14yukYj
       - bib: |
-          Cost, R.S.; Finin, T.; Joshi, A.; Yun Peng; Nicholas, C.; Soboroff, I.; Chen, H.; Kagal, L.; Perich, F.;            Youyong Zou; Tolia, S. (2002). "ITtalks: a case study in the Semantic Web and DAML+OIL," Intelligent                Systems, IEEE , vol.17, no.1, pp.40,47, Jan/Feb 2002
+          Cost, R.S.; Finin, T.; Joshi, A.; Yun Peng; Nicholas, C.; Soboroff, I.; Chen, H.; Kagal, L.; Perich, F.; 
+          Youyong Zou; Tolia, S. (2002). "ITtalks: a case study in the Semantic Web and DAML+OIL," Intelligent 
+          Systems, IEEE , vol.17, no.1, pp.40,47, Jan/Feb 2002
         availabilty :
           - type : electronic
           via U of T library website, doi: 10.1109/5254.988447
