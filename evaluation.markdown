@@ -43,8 +43,9 @@ Students who have difficulty speaking in public should see the
 
 ### Memos — 15%
 
-For all classes other than the first and the last, the students will
-  prepare “memos” on the readings assigned for that class.
+For all classes other than the first and the last, each student will
+  prepare one memo on the readings assigned for one of the two classes each week.
+  (The students will sign up the reading assingment in the irst class.)
 Each memo should be no longer than 1 page and should be formatted in
   accordance with this template:
   [memo_template.pdf](handouts/memo_template.pdf),
